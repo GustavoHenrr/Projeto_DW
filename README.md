@@ -1,4 +1,4 @@
-# SQL Server Data Warehouse (DW) — Sales Analytics
+# Data Warehouse (DW) — SQL Server
 
 Este repositório mostra, na prática, como eu desenho e construo um **Data Warehouse no SQL Server** para consolidar dados (ERP/CRM), padronizar regras de negócio e disponibilizar **um modelo analítico em estrela (Star Schema)** pronto para reporting.
 
